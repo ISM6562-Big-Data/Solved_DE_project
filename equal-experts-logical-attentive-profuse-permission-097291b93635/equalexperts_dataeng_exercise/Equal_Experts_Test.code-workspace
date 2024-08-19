@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"sqltools.connections": [
+			{
+				"name": "DuckDB",
+				"accessMode": "Read/Write",
+				"previewLimit": 50,
+				"driver": "DuckDB",
+				"databaseFilePath": "/Users/rishi.bhutada/Desktop/Equal_Experts_Test/equal-experts-logical-attentive-profuse-permission-097291b93635/equalexperts_dataeng_exercise/warehouse.db"
+			}
+		],
+		"sqltools.useNodeRuntime": true
+	}
+}
